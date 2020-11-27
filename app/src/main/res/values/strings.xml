@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RestApplication</string>
+    <string name="textview_title">Body Of the Response</string>
+</resources>
